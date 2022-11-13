@@ -3,7 +3,8 @@
 *** by IvorCorp, 2022
 -->
 
-Whitepaper Link: https://www.ivorcorp.com.ar/Assidian%20Protocol.pdf
+Whitepaper Link: https://www.ivorcorp.com.ar/Assidian%20Protocol.pdf 
+<br>
 Website Link: https://www.ivorcorp.com.ar
 <hr>
 ## Source of the online node and software
