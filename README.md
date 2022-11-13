@@ -7,6 +7,7 @@
   White Paper
 </a>
 
+ | 
 
 <a href="https://www.ivorcorp.com.ar">
   Website
