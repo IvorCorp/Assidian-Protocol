@@ -4,12 +4,12 @@
 -->
 
 <a href="https://www.ivorcorp.com.ar/Assidian%20Protocol.pdf">
-  <img src="https://www.ivorcorp.com.ar/assets/images/whitepaper.png" width="215px" align="right"/>
+  White Paper
 </a>
 
 
 <a href="https://www.ivorcorp.com.ar">
-  <img src="https://www.ivorcorp.com.ar/assets/images/logo.png" width="430px"/>
+  Website
 </a>
 
 ## Source of the online node and software
